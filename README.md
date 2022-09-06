@@ -1,4 +1,4 @@
-<img src="https://github.com/dsamandarc/dsamandarc/blob/ca317848922529ef2e2ac21d84d4d460c8d727cb/perfil.jpg" alt="Introduction Banner.." style="text-align: center; margin-bottom: 30px;" />
+<img src="[https://github.com/dsamandarc/dsamandarc/blob/ca317848922529ef2e2ac21d84d4d460c8d727cb/perfil.jpg](https://github.com/dsamandarc/dsamandarc/blob/30dbceee001d87b545aea4488374f0aa8e1a909c/Apresenta%C3%A7%C3%A3o1.jpg)" alt="Introduction Banner.." style="text-align: center; margin-bottom: 30px;" />
 
 [![Gmail](https://img.shields.io/badge/Email-amandinharodriguescruz@gmail.com-informational?style=flat-square&color=8B89CC&logo=protonmail&logoColor=white)](malito:amandinharodriguescruz@gmail.com)
 
