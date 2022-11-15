@@ -14,11 +14,11 @@
     
     amanda_past_career = [Nutricionist, Master in Health Science]
     
-    amanda_new_career = [Data Scientist, MBA Data Science and Analytics]
+    amanda_new_career = [Data Scientist, MBA Data Science and Analytics, Back-End Developer Python]
     
     amanda_code = [R, Python, JavaScript]
     
-    amanda_tools = [Machine Learning, Git, SQLite, PostgreSQL, BigData, Artificial Intelligence, Statistics, Data Viz, Databases, Business Intelligence]
+    amanda_tools = [Machine Learning, Git, SQLite, PostgreSQL, BigData, Artificial Intelligence, Statistics, Data Viz, Databases, Business Intelligence, FastAPI, Docker]
 
 # The future is data! 
 
