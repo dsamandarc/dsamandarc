@@ -14,7 +14,7 @@
     
     amanda_past_career = [Nutricionist, Master in Health Science]
     
-    amanda_new_career = [Data Scientist, MBA Data Science and Analytics, Back-End Developer Python]
+    amanda_new_career = [Data Scientist, Back-End Developer Python]
     
     amanda_code = [R, Python, JavaScript]
     
