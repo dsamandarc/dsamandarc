@@ -29,3 +29,6 @@
         print(f’I <code> like a girl {try to keep up}’)
 
 # Let´s {code}nnect!
+
+![My Github stats](https://github-readme-stats.vercel.app/api?username=dsamandarc&show_icons=true&theme=tokyonight&hide_border=true&card_width=300)![My code streak](https://streak-stats.demolab.com?user=dsamandarc&theme=tokyonight&hide_border=true&mode=weekly&card_width=400)
+![My most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dsamandarc&theme=tokyonight&hide_border=true&langs_count=8&layout=compact&hide_title=true&card_width=840)
